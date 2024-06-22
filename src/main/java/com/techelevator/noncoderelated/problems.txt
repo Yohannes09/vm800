@@ -1,0 +1,14 @@
+
+SOLVED:
+- does not display sold out when product quantity is zero. The product's quantity stays at 1 and exception is never thrown
+    Product.java    (kinda solved)
+- item quantity stuck at 1 now and prints sold out even though there is 1 more of that item
+- Added the printDispenseMessage method in the VendoMatic class but the console still isn't printing the desired result (Shaun)
+- Vendomatic purchase() has a compile time exception when selecting invalid choices that don't exist in the map
+- Vendomatic should reprompt the user to purchase() if they have an invalid finish transaction (Shaun)
+
+************************************************************************************************************
+
+
+
+

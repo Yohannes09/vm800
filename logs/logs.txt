@@ -1,0 +1,235 @@
+06/14/2024  02:08 PM  Little League Chew    A3 $2.00 -$2.00
+06/14/2024  02:08 PM  FEED MONEY: $20.00 $18.00
+
+06/20/2024  12:41 AM  Pepsi               E2 $1.77 $8.23
+06/20/2024  12:42 AM  Hershey's           E3 $1.44 $6.79
+06/20/2024  12:42 AM  Pepsi               E2 $1.77 $5.02
+06/20/2024  12:42 AM  Pepsi               E2 $1.77 $3.25
+06/20/2024  12:42 AM  GIVE CHANGE:            $3.25 $0.00
+06/20/2024  12:46 AM  FEED MONEY:            $10.00 $10.00
+06/20/2024  12:46 AM  Hershey's           E3 $1.44 $8.56
+06/20/2024  12:46 AM  Hershey's           E3 $1.44 $7.12
+06/20/2024  12:46 AM  Hershey's           E3 $1.44 $5.68
+06/20/2024  12:46 AM  Hershey's           E3 $1.44 $4.24
+06/20/2024  12:46 AM  GIVE CHANGE:            $4.24 $0.00
+06/20/2024  12:52 AM  FEED MONEY:            $10.00 $10.00
+06/20/2024  12:52 AM  Hershey's           E3 $1.44 $8.56
+06/20/2024  12:52 AM  Pepsi               E2 $1.77 $6.79
+06/20/2024  12:53 AM  Pepsi               E2 $1.77 $5.02
+06/20/2024  12:53 AM  Pepsi               E2 $1.77 $3.25
+06/20/2024  12:53 AM  Hershey's           E3 $1.44 $1.81
+06/20/2024  12:53 AM  Hershey's           E3 $1.44 $0.37
+06/20/2024  12:53 AM  GIVE CHANGE:            $0.37 $0.00
+
+
+06/20/2024  01:50 AM  FEED MONEY:            $10.00 $10.00
+06/20/2024  01:50 AM  Pepsi               E2 $1.77 $8.23
+06/20/2024  01:50 AM  Hershey's           E3 $1.44 $6.79
+06/20/2024  01:50 AM  Hershey's           E3 $1.44 $5.35
+06/20/2024  01:50 AM  Potato Crisps       A1 $3.05 $2.30
+06/20/2024  01:50 AM  Triplemint          D4 $0.75 $1.55
+06/20/2024  01:50 AM  GIVE CHANGE:            $1.55 $0.00
+06/20/2024  01:51 AM  FEED MONEY:            $10.00 $11.55
+06/20/2024  01:52 AM  Hershey's           E3 $1.44 $10.11
+06/20/2024  01:52 AM  Hershey's           E3 $1.44 $8.67
+06/20/2024  01:52 AM  Hershey's           E3 $1.44 $7.23
+06/20/2024  01:52 AM  Pepsi               E2 $1.77 $5.46
+06/20/2024  01:52 AM  GIVE CHANGE:            $5.46 $0.00
+06/20/2024  01:53 AM  FEED MONEY:             $5.00 $10.46
+06/20/2024  01:53 AM  Hershey's           E3 $1.44 $9.02
+06/20/2024  01:53 AM  Hershey's           E3 $1.44 $7.58
+06/20/2024  01:53 AM  Hershey's           E3 $1.44 $6.14
+06/20/2024  01:53 AM  GIVE CHANGE:            $6.14 $0.00
+06/20/2024  01:58 AM  FEED MONEY:            $10.00 $10.00
+06/20/2024  01:58 AM  Triplemint          D4 $0.75 $9.25
+06/20/2024  01:58 AM  Triplemint          D4 $0.75 $8.50
+06/20/2024  01:58 AM  GIVE CHANGE:           $8.50 $0.00
+06/20/2024  01:59 AM  FEED MONEY:             $5.00 $5.00
+06/20/2024  02:01 AM  Triplemint          D4 $0.75 $4.25
+06/20/2024  02:01 AM  Triplemint          D4 $0.75 $3.50
+06/20/2024  02:02 AM  GIVE CHANGE:           $3.50 $0.00
+06/20/2024  02:02 AM  FEED MONEY:             $5.00 $5.00
+06/20/2024  02:05 AM  FEED MONEY:           $10.00 $10.00
+06/20/2024  02:06 AM  Triplemint          D4 $0.75 $9.25
+06/20/2024  02:06 AM  Triplemint          D4 $0.75 $8.50
+06/20/2024  02:06 AM  GIVE CHANGE:           $8.50 $0.00
+********** Transaction completed 06/20/2024  02:06 AM **********
+06/20/2024  02:08 AM  FEED MONEY:           $10.00 $10.00
+06/20/2024  02:08 AM  Hershey's           E3 $1.44 $8.56
+06/20/2024  02:08 AM  Hershey's           E3 $1.44 $7.12
+06/20/2024  02:08 AM  GIVE CHANGE:           $7.12 $0.00
+********** Transaction completed 06/20/2024  02:08 AM **********
+06/20/2024  02:08 AM  FEED MONEY:            $5.00 $5.00
+06/20/2024  02:09 AM  Pepsi               E2 $1.77 $3.23
+06/20/2024  02:09 AM  Pepsi               E2 $1.77 $1.46
+06/20/2024  02:09 AM  GIVE CHANGE:           $1.46 $0.00
+********** Transaction completed 06/20/2024  02:09 AM **********
+06/20/2024  03:11 AM  FEED MONEY:           $10.00 $10.00
+06/20/2024  03:11 AM  Triplemint          D4 $0.75 $9.25
+06/20/2024  03:11 AM  Pepsi               E2 $1.77 $7.48
+06/20/2024  03:11 AM  GIVE CHANGE:           $7.48 $0.00
+********** Transaction completed 06/20/2024  03:11 AM **********
+06/21/2024  12:33 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  12:33 AM  Hershey's           E3 $1.44 $8.56
+06/21/2024  12:33 AM  Hershey's           E3 $1.44 $7.12
+06/21/2024  12:33 AM  Hershey's           E3 $1.44 $5.68
+06/21/2024  12:33 AM  Hershey's           E3 $1.44 $4.24
+06/21/2024  12:33 AM  Hershey's           E3 $1.44 $2.80
+06/21/2024  12:34 AM  Pepsi               E2 $1.77 $1.03
+06/21/2024  12:34 AM  GIVE CHANGE:           $1.03 $0.00
+********** Transaction completed 06/21/2024  12:34 AM **********
+06/21/2024  12:35 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  12:35 AM  Hershey's           E3 $1.44 $8.56
+06/21/2024  12:35 AM  Hershey's           E3 $1.44 $7.12
+06/21/2024  12:35 AM  Hershey's           E3 $1.44 $5.68
+06/21/2024  12:35 AM  Hershey's           E3 $1.44 $4.24
+06/21/2024  12:35 AM  Hershey's           E3 $1.44 $2.80
+06/21/2024  12:35 AM  Pepsi               E2 $1.77 $1.03
+06/21/2024  12:35 AM  GIVE CHANGE:           $1.03 $0.00
+********** Transaction completed 06/21/2024  12:35 AM **********
+06/21/2024  12:36 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  12:36 AM  Potato Crisps       A1 $3.05 $6.95
+06/21/2024  12:36 AM  Stackers            A2 $1.45 $5.50
+06/21/2024  12:36 AM  Potato Crisps       A1 $3.05 $2.45
+06/21/2024  12:36 AM  GIVE CHANGE:           $2.45 $0.00
+********** Transaction completed 06/21/2024  12:36 AM **********
+06/21/2024  01:06 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:06 AM  Triplemint          D4 $0.75 $9.25
+06/21/2024  01:06 AM  GIVE CHANGE:           $9.25 $0.00
+********** Transaction completed 06/21/2024  01:06 AM **********
+06/21/2024  01:24 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:24 AM  Pepsi               E2 $1.77 $8.23
+06/21/2024  01:24 AM  Pepsi               E2 $1.77 $6.46
+06/21/2024  01:24 AM  Potato Crisps       A1 $3.05 $3.41
+06/21/2024  01:24 AM  Potato Crisps       A1 $3.05 $0.36
+06/21/2024  01:24 AM  GIVE CHANGE:           $0.36 $0.00
+********** Transaction completed 06/21/2024  01:24 AM **********
+06/21/2024  01:24 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:24 AM  Hershey's           E3 $1.44 $8.56
+06/21/2024  01:24 AM  Hershey's           E3 $1.44 $7.12
+06/21/2024  01:24 AM  Potato Crisps       A1 $3.05 $4.07
+06/21/2024  01:24 AM  Potato Crisps       A1 $3.05 $1.02
+06/21/2024  01:25 AM  FEED MONEY:            $1.00 $2.02
+06/21/2024  01:27 AM  GIVE CHANGE:           $2.02 $0.00
+********** Transaction completed 06/21/2024  01:27 AM **********
+06/21/2024  01:27 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:27 AM  Potato Crisps       A1 $3.05 $6.95
+06/21/2024  01:27 AM  Pepsi               E2 $1.77 $5.18
+06/21/2024  01:28 AM  GIVE CHANGE:           $5.18 $0.00
+********** Transaction completed 06/21/2024  01:28 AM **********
+06/21/2024  01:28 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:28 AM  Potato Crisps       A1 $3.05 $6.95
+06/21/2024  01:29 AM  GIVE CHANGE:           $6.95 $0.00
+********** Transaction completed 06/21/2024  01:29 AM **********
+06/21/2024  01:41 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:41 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:41 AM **********
+06/21/2024  01:42 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:42 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:42 AM **********
+06/21/2024  01:44 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:44 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:44 AM **********
+06/21/2024  01:45 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:45 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:45 AM **********
+06/21/2024  01:46 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:46 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:46 AM **********
+06/21/2024  01:47 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:47 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:47 AM **********
+06/21/2024  01:48 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:48 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:48 AM **********
+06/21/2024  01:54 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:54 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:54 AM **********
+06/21/2024  01:57 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  01:57 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  01:57 AM **********
+
+
+
+06/21/2024  02:03 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  02:03 AM  Hershey's           E3 $1.44 $8.56
+06/21/2024  02:03 AM  Hershey's           E3 $1.44 $7.12
+06/21/2024  02:03 AM  GIVE CHANGE:           $7.12 $0.00
+********** Transaction completed 06/21/2024  02:03 AM **********
+
+06/21/2024  02:03 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  02:03 AM  Potato Crisps       A1 $3.05 $6.95
+06/21/2024  02:03 AM  Potato Crisps       A1 $3.05 $3.90
+06/21/2024  02:03 AM  Potato Crisps       A1 $3.05 $0.85
+06/21/2024  02:04 AM  GIVE CHANGE:           $0.85 $0.00
+********** Transaction completed 06/21/2024  02:04 AM **********
+
+06/21/2024  02:05 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  02:05 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  02:05 AM **********
+
+06/21/2024  02:12 AM  GIVE CHANGE:           $0.00 $0.00
+********** Transaction completed 06/21/2024  02:12 AM **********
+
+06/21/2024  02:26 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  02:26 AM  Triplemint          D4 $0.75 $9.25
+06/21/2024  02:26 AM  Triplemint          D4 $0.75 $8.50
+06/21/2024  02:26 AM  Triplemint          D4 $0.75 $7.75
+06/21/2024  02:26 AM  GIVE CHANGE:           $7.75 $0.00
+********** Transaction completed 06/21/2024  02:26 AM **********
+
+06/21/2024  02:26 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  02:26 AM  Chiclets            D3 $0.75 $9.25
+06/21/2024  02:26 AM  Chiclets            D3 $0.75 $8.50
+06/21/2024  02:26 AM  GIVE CHANGE:           $8.50 $0.00
+********** Transaction completed 06/21/2024  02:26 AM **********
+
+06/21/2024  03:24 AM  FEED MONEY:           $10.00 $10.00
+06/21/2024  03:25 AM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  03:25 AM **********
+
+06/21/2024  02:23 PM  FEED MONEY:            $1.00 $1.00
+06/21/2024  02:24 PM  GIVE CHANGE:           $1.00 $0.00
+********** Transaction completed 06/21/2024  02:24 PM **********
+
+06/21/2024  02:31 PM  GIVE CHANGE:           $0.00 $0.00
+********** Transaction completed 06/21/2024  02:31 PM **********
+
+06/21/2024  02:58 PM  FEED MONEY:           $10.00 $10.00
+06/21/2024  02:58 PM  Hershey's           E3 $1.44 $8.56
+06/21/2024  02:58 PM  Hershey's           E3 $1.44 $7.12
+06/21/2024  02:58 PM  Hershey's           E3 $1.44 $5.68
+06/21/2024  02:58 PM  GIVE CHANGE:           $5.68 $0.00
+********** Transaction completed 06/21/2024  02:58 PM **********
+
+06/21/2024  02:58 PM  FEED MONEY:            $5.00 $5.00
+06/21/2024  02:59 PM  Hershey's           E3 $1.44 $3.56
+06/21/2024  02:59 PM  Hershey's           E3 $1.44 $2.12
+06/21/2024  02:59 PM  Pepsi               E2 $1.77 $0.35
+06/21/2024  02:59 PM  GIVE CHANGE:           $0.35 $0.00
+********** Transaction completed 06/21/2024  02:59 PM **********
+
+06/21/2024  03:00 PM  FEED MONEY:           $10.00 $10.00
+06/21/2024  03:00 PM  Hershey's           E3 $1.44 $8.56
+06/21/2024  03:01 PM  GIVE CHANGE:           $8.56 $0.00
+********** Transaction completed 06/21/2024  03:01 PM **********
+
+06/21/2024  03:18 PM  FEED MONEY:            $1.00 $1.00
+06/21/2024  03:19 PM  FEED MONEY:            $5.00 $6.00
+06/21/2024  03:19 PM  Hershey's           E3 $1.44 $4.56
+06/21/2024  03:19 PM  GIVE CHANGE:           $4.56 $0.00
+********** Transaction completed 06/21/2024  03:19 PM **********
+
+06/21/2024  04:06 PM  GIVE CHANGE:           $0.00 $0.00
+********** Transaction completed 06/21/2024  04:06 PM **********
+
+06/21/2024  10:12 PM  FEED MONEY:           $10.00 $10.00
+06/21/2024  10:13 PM  GIVE CHANGE:          $10.00 $0.00
+********** Transaction completed 06/21/2024  10:13 PM **********
+
+06/21/2024  10:17 PM  GIVE CHANGE:           $0.00 $0.00
+********** Transaction completed 06/21/2024  10:17 PM **********
+
+06/21/2024  10:18 PM  GIVE CHANGE:           $0.00 $0.00
+********** Transaction completed 06/21/2024  10:18 PM **********
+

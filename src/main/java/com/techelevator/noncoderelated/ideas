@@ -1,0 +1,2 @@
+- select multiple slots at the same time. Use split() and have the input be sepereated by spaces
+    a1 a2 a3...d3
